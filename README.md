@@ -19,7 +19,7 @@ I'm a software engineer and data scientist based in Addis Ababa, Ethiopia. I hol
 - **SEO Specialist** and **Data Analyst** at Kimsha.net
 
 ## Projects
-### Project 1: [AI landing page][https://github.com/Natnael-Alemayehu/AI-landing-page]
+### Project 1: [AI landing page](https://github.com/Natnael-Alemayehu/AI-landing-page)
 This project is made using React and Tailwind. Front-end website designed to showcase a generative AI company called Brainwave. If you like this project, please consider giving it a star! 
 
 
