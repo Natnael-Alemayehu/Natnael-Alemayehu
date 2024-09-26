@@ -1,18 +1,16 @@
 ### Hi there, I'm Natnael Alemayehu 👋
 
 ## About Me
-I'm a software engineer and data scientist based in Addis Ababa, Ethiopia. I hold a degree in Software Engineering from Addis Ababa University and have additional certifications in Data Analytics and Data Science.
+I'm a Backend Developer and data scientist based in Addis Ababa, Ethiopia. I hold a degree in Software Engineering from Addis Ababa University and have additional certifications in Data Analytics and Data Science.
 
 - 🔭 I’m currently working on creating a software and analytics company in Ethiopia.
 - 🌱 I’m currently learning back-end development with Node.js and Express.
 - 📫 How to reach me: [Email](mailto:natnael@example.com) [LinkedIn](https://www.linkedin.com/in/natnaelalemayehu/)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Scientist;Back-End+Developer)
 
 ## Skills
-- **Languages**: JavaScript, Python, R, SQL
+- **Languages**: Golang, JavaScript, Python, MySQL, Postgress, MongoDB 
 - **Technologies**: Node.js, Express, React, Next.js, Django, Numpy, Scikit-Learn, Puppeteer
-- **Tools**: Power BI, Google Sheets
 
 ## Experience
 - **Data Scientist** at Phase2Growth
@@ -29,7 +27,7 @@ This project is made using React and Tailwind. Front-end website designed to sho
 - **Data Science Certificate**, African Leadership Experience (ALX)
 
 ## Interests
-- 📈 Data Science
+- 📈 Goalng
 - 🌐 Web Development
 - 🚀 Machine Learning
 
